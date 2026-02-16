@@ -89,7 +89,7 @@
 - *Q14. Display length of the string 'PRIYANSHU KUMAR YADAV'*
 
   sql
-  SELECT LENGTH('PRIYANSHU KUMAR YADAV');
+  SELECT LENGTH('TANISHA KUMARI');
   
 
 - *Q15. Display length of each employee name along with EMPNO and ENAME*
